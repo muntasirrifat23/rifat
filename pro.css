@@ -1,0 +1,110 @@
+*{
+    margin:0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.header{
+    color: blanchedalmond;
+}
+
+.change{
+    color:red;
+}
+.fi{
+    font-size:120px;
+    color:green;
+}
+
+nav{
+    margin:20px;
+    display: flex;
+    justify-content: space-between;
+}
+nav ul{
+    display: flex;
+    list-style: none;
+    font-size: 
+    30px;
+    align-items: center;
+}
+
+nav li{
+    margin: 10px;
+}
+/* Button work */
+.btn-c{
+    position: :absolute;
+    font-size: 30px;
+    height:60px;
+    border-radius:5px;
+    border:none;
+    background-color:pink;
+    paddiing:18px 35px;
+}
+/* Next Add Pic */
+.ri{
+    font-size: 45px;
+    font-weight: 80;
+}
+
+.mi{
+    font-size: 100px;
+    margin-bottom: 15px;
+    color: rgb(19, 96, 143);
+    font-weight:500;
+}
+.dis{
+    color:crimson;
+    font-size: 60px;
+    margin-bottom: 20px;
+}
+.pic{
+    margin:20px;
+    display: flex;
+}
+
+.x{
+    background-image: url('header_bg.png'),url('developer.png');
+    background-position: bottom right, top left;
+    background-repeat: no-repeat;
+    size-adjust: 100px;
+}
+/* Main */
+main{
+    max-width: 2140px;
+    margin: 0 auto;
+}
+.about{
+    text-align: center;
+    margin-top: 130px;
+
+    padding: 130px 150px;
+}
+.stitle{
+
+    margin-bottom: 30px;
+    font-size: 40px;
+    text-decoration:underline;
+}
+.sdis{
+    text-align: justify;
+    color:rgb(97, 70, 70);
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+/* About Des */
+.ainfoc{
+    display: flex;
+    justify-content: space-around;
+}
+
+.about .tinfo{
+    color: blue;
+    font-size: 17px;
+}
+
+.tdes{
+    display: flex;
+    font-size: 20px;
+    color: crimson;
+}
