@@ -108,3 +108,33 @@ main{
     font-size: 20px;
     color: crimson;
 }
+/* What I do */
+.si-title{
+    font-size: 60px;
+    text-align: center;
+    margin: 30px;
+}
+.skill-c{
+    gap: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+.s-title{
+    margin-top: 20px;
+    color: deeppink;
+    font-size: 20px;
+    text-decoration: bold;
+    text-align:left;
+}
+.skill{
+    background-color: burlywood;
+    padding: 30px;
+    border-radius: 5px;
+    box-shadow: 40px;
+    text-align: left;
+}
+.slill-des{
+    margin-top: 10px;
+    size: 90px;
+    padding: 5px;
+}
