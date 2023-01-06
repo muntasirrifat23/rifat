@@ -174,3 +174,36 @@ main{
     color: darkorange;
     background-color: black;
 }
+
+/* Contact */
+
+.con{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: rgb(78, 117, 130);
+}
+.contact{
+    gap:100px;
+    display: flex;
+}
+
+.s-ati{
+    display: flex;
+}
+
+.contact input, textarea{
+    margin-bottom: 10px;
+    border: 1px solid black;
+    width: 60%;
+    padding: 20px;
+}
+.lol{
+    height: 200px;
+    width: 545px;
+}
+.qw{
+    height: 40px;
+    width: 120px;
+    color: white;
+    background-color:blue;
+}
