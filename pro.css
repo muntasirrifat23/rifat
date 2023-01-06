@@ -64,8 +64,8 @@ nav li{
 }
 
 .x{
-    background-image: url('header_bg.png'),url('developer.png');
-    background-position: bottom right, top left;
+    background-image: url('header_bg.png'), url('developer.png');
+    background-position: bottom right, left;
     background-repeat: no-repeat;
     size-adjust: 100px;
 }
