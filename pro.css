@@ -132,9 +132,47 @@ main{
     border-radius: 5px;
     box-shadow: 40px;
     text-align: left;
+    margin bottom: 20px;
 }
 .slill-des{
     margin-top: 10px;
     size: 90px;
     padding: 5px;
+}
+/* My Resume */
+.sr-title{
+    font-size: 59px;
+    text-align: center;
+    margin-top: 160px;
+}
+.r-con{
+    border: 5px solid wheat;
+    margin: 20px;
+    padding: 10px;
+    text-align: justify;
+    display: flex;
+}
+.r-title{
+    text-decoration: underline;
+    font-size: larger;
+    color: darkred;
+    margin-top: 30px;
+}
+.iteam{
+    margin-top: 5px;
+    text-decoration: bold;
+    color: darkblue;
+}
+.r-des{
+    margin-right: 30px;
+    margin-bottom: 10px;
+}
+.bt{
+    text-align: center;
+}
+.btn-r{
+    text-align: center;
+    margin:15px;
+    color: darkorange;
+    background-color: black;
 }
